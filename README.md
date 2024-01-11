@@ -48,11 +48,11 @@ Technology:
 
 ## Table of Contents
 
-- [Project Overview1](#project-overview)
-- [Project Links1](#Project-Links)
-- [Technologies Used1](#technologies-used)
+- [Project Overview](#project-overview1)
+- [Project Links](#Project-Links1)
+- [Technologies Used1](#technologies-used1)
 
-## Project Overview1
+## Project Overview
 
 this is a super toy application here a user can select any class and can see his selected classes in his own round and all selected classes can be seen and here the user can update any information if he wants. Block route is kept here.
 
